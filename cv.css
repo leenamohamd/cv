@@ -1,0 +1,33 @@
+body {
+    background-image: url(p1.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-color: lightblue;
+    padding: 15px;
+    margin: 5px;
+    
+}
+
+
+
+h1 {
+    font-size: large ;
+    background-color:lightgoldenrodyellow;
+    
+}
+
+  h2 { 
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+ 
+} 
+ h5{
+    font-size: 20px;
+    color: rgb(130, 189, 240);
+    background-color: lightgoldenrodyellow;
+    margin: 10px;
+ }
+div {
+    font-size: 15px;
+   
+}
